@@ -11,7 +11,7 @@ print(data[0])
 #finding dimension of data
 print(data.shape)
 
-image-1=plt.plot(data)
+image=plt.plot(data)
 
 #plotting data
-plt.show(image-1)
+plt.show(image)
